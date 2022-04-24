@@ -137,6 +137,7 @@ section {
 .site-contact{
     display: flex;
     margin-left: auto;
+    align-items: center;
 }
 
 .site-contact .c-item:not(:last-child){
@@ -144,7 +145,7 @@ section {
 }
 
 .header-contact{
-    display: block;
+    display: flex;
     padding: 32px 0;
 
     color: #757575; 
